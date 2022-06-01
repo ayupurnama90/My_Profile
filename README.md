@@ -1,16 +1,5 @@
-# Learn.CypressTest
-Learning automation testing using cypress
-Project to learn https://github.com/Postavshik/ngx-cypress-test
+### Ngx-Admin Angular 8 application from akveo.com
 
-Prepare local env
-1. Browser chrome
-2. Install Node.js https://nodejs.org/en/ (previous version Fermium 14.x.x) for Windows download .msi for Mac download pkg
-3. Install Git https://git-scm.com/downloads
-4. Code Editor (e.g Visual Studia Code https://code.visualstudio.com/download)
-5. Open Visual Studio Code > Terminal > select command prompt (to check everything installed properly)
-6. Run the following code node -v and npm -v
+This is modified and more lightweight version of original application to practice UI Automation with Cypress.
 
-Install cypress
-1. npm install cypress --save-dev
-
-
+The original repo is here: https://github.com/akveo/ngx-admin
