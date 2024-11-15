@@ -1,6 +1,10 @@
-# Learn.CypressTest
+# My Profile
+Conatined resume, cover letter and some files of my learning material 
+
+
+**How To setup cypress env**
 Learning automation testing using cypress
-Project to learn https://github.com/Postavshik/ngx-cypress-test
+_Note use this project to learn https://github.com/Postavshik/ngx-cypress-test_
 
 Prepare local env
 1. Browser chrome
@@ -10,5 +14,6 @@ Prepare local env
 5. Open Visual Studio Code > Terminal > select command prompt (to check everything installed properly)
 6. Run the following code node -v and npm -v
 
-Install cypress
+Install cypress and setup testing files
 1. npm install cypress --save-dev
+2. and follow the config setting - please refer to https://docs.cypress.io/app/references/configuration
